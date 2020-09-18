@@ -1,0 +1,97 @@
+#col{
+    display: inline-block;
+    width: 70px;
+    height: 50px;
+    border-style: solid;
+    text-align: center;
+    line-height: 50px;
+    border-color: white;
+    padding: 0px;
+    margin-bottom: -10px;
+    padding-top:7px;
+  }
+.ele1{
+    
+ margin-left: 70em;
+
+}
+.ele0,.ele2,.ele10,.ele18,.ele36,.ele54,.ele86{
+ margin-left: 5%;
+
+}
+
+.ele4,.ele12{
+    margin-left: 700px;
+  
+}
+
+.ele106,.ele121{
+    margin-left: 280px;
+}
+
+
+#titulo{
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 10px;
+
+}
+.col{
+    font-weight: bold;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    padding-top: 20px;
+   
+    
+}
+.col-12{
+    border-style: solid;
+    border-color: white;
+    border-left: lightcoral;
+    border-right: lightcoral;
+    border-bottom: lightcoral;
+
+}
+.col-2{
+    font-weight: bold;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    margin-top: 18px;
+    padding-top: 50px;
+
+
+}
+#met,#nomet{
+    text-align: center;
+    font-weight: bold;
+    background-color:rgb(167, 161, 161);
+    margin-top: 20px;
+    margin-left: -13px;
+    margin-right: -13px;
+    margin-bottom: 0px;
+    
+}
+.container{
+    margin: 40px;
+}
+.falta1{
+    margin-left: 70em;
+}
+.falta0,.falta2,.falta10,.falta18,.falta36,.falta54,.falta86{
+    margin-left: 5%;
+ 
+   
+}
+.falta4,.falta12{
+    margin-left: 700px;
+  
+}
+
+.falta106,.falta121{
+    margin-left: 280px;
+}
+
+
+
